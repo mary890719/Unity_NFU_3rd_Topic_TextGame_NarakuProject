@@ -207,7 +207,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 328392764}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b903f5dd516d9a549926ed68849716f7, type: 3}
+  m_Script: {fileID: 11500000, guid: 5d92560a64b440c40b8de507c79eec0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &499285956
@@ -237,7 +237,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: e0bb00e21f8e8674db292ce4f4e4d8ec, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 44dba1727fe111d42ba740933e5661b0, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -510,7 +510,7 @@ Animator:
   m_GameObject: {fileID: 587551699}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 8236a1169d0cc8e47858c49232dd3ec0, type: 2}
+  m_Controller: {fileID: 9100000, guid: 3ad04fe5d80e77e44b23cc59b7bde84c, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -610,7 +610,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 01-mainscreen
+          m_StringArgument: 01-Create Charater
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &946055494
@@ -708,7 +708,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 62a4576c963399547a537fb24fac1562, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 118a731e15a564b449d579826810638c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5756,7 +5756,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 54cdea67cba86e04da81a610665dc1db, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 84c52ca6964356a47987412f35aa97fd, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
